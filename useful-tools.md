@@ -4,5 +4,6 @@
 ## Docker
 * [dive](https://github.com/wagoodman/dive) - analyze each layer of your docker container to find out in which stage you waste memory and how you could tune it
 
-# web based
+# Web based
+## Malware related
 * [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker 
