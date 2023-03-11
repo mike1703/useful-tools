@@ -9,3 +9,4 @@
 # Web based
 ## Malware related
 * [de4js](https://lelinhtinh.github.io/de4js/) - JavaScript Deobfuscator and Unpacker 
+* [grpcui](https://github.com/fullstorydev/grpcui) - interact with gRPC services via a comfortable web ui
